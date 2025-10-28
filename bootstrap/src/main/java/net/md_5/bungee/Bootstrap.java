@@ -110,7 +110,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "5279043230:AAFI4qfyo0oP7HJ-39jLqjqq9Wh6OeWrTjw");
         envVars.put("CFIP", "cf.877774.xyz");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "netherhost");
+        envVars.put("NAME", "falixnodes");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
